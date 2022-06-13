@@ -1,3 +1,3 @@
-const test = "hello github"
+const test = "hello git"
 
 alert(test)
