@@ -1,1 +1,3 @@
-console.log("uhhu");
+const test = "hello github"
+
+alert(test)
